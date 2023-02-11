@@ -5,6 +5,9 @@ I made this to quickly export the XML files that Sollumz outputs into the GTA V 
 ## Usage
 Drag and drop the XML file onto the executable. It will output the files in the same directory as the XML file.
 
+## Installation
+Just drop it in the same folder as CodeWalker and it'll work.
+
 ## Support
 You think I'm going to support this shit app? Good joke.
 
